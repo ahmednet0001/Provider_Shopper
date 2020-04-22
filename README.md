@@ -5,4 +5,4 @@ Develop Provider Shopper of flutter team sample
 This App for learn flutter state management using provider
 - Make Catalog with finite list 
 - Added Badge to cart for indicating number of item in cart
-![Test Image 1](githubimages/screen_shoot.png)
+![Test Image 1](githubimages/screen_shoot.png){:height="700px" width="400px"}
